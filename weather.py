@@ -63,4 +63,4 @@ def get_weather(lat, lon, lang, api_key):
 }
 '''
 
-print(get_weather(-6.9712803, 111.4242222, "id", "0d604e23805adaefd99a77ea157a414b"))
+print(get_weather(-6.9712803, 111.4242222, "id", "<api_key>"))
