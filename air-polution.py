@@ -42,4 +42,4 @@ def get_airpollution(lat, lon, api_key):
 }
 '''
 
-print(get_airpollution(-6.9712803, 111.4242222, "0d604e23805adaefd99a77ea157a414b"))
+print(get_airpollution(-6.9712803, 111.4242222, "<api_key>"))
